@@ -1,0 +1,5 @@
+Requirement already satisfied: django-crispy-forms in ./.venv/lib/python3.10/site-packages (2.1)
+Requirement already satisfied: django>=4.2 in ./.venv/lib/python3.10/site-packages (from django-crispy-forms) (5.0.3)
+Requirement already satisfied: asgiref<4,>=3.7.0 in ./.venv/lib/python3.10/site-packages (from django>=4.2->django-crispy-forms) (3.8.0)
+Requirement already satisfied: sqlparse>=0.3.1 in ./.venv/lib/python3.10/site-packages (from django>=4.2->django-crispy-forms) (0.4.4)
+Requirement already satisfied: typing-extensions>=4 in ./.venv/lib/python3.10/site-packages (from asgiref<4,>=3.7.0->django>=4.2->django-crispy-forms) (4.10.0)
